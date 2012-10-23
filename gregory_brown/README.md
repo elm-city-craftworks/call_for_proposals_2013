@@ -18,7 +18,7 @@ you're in for, check out the following articles:
 
 * Thoughts on "Arguments and Results" ([part 1][pr-2.14], [part 2][pr-2.15])
 * Criteria for disciplined inheritance ([part 1][pr-3.7], [part 2][pr-3.8])
-* [Rocket Science and the Law of Demeter][pr-5.2][pr-5.2] 
+* [Rocket Science and the Law of Demeter][pr-5.2] 
 
 [pr-2.14]: https://practicingruby.com/articles/shared/vpxpovppchww
 [pr-2.15]: https://practicingruby.com/articles/shared/mupuergickjz
